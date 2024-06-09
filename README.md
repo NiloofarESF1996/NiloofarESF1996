@@ -13,9 +13,9 @@ I am passionate about the entire process of developing innovative data-driven so
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working as
 
-- =
+- Data Science Reasearch Assistant and Master Student at the University of Sussex.
 
 ## 🌱 I'm currently learning
 
@@ -24,25 +24,50 @@ I am passionate about the entire process of developing innovative data-driven so
 - Docker
 - Azure
 
-## 💼 Technical Skills
+# 💼 Technical Skills
+## Programming Languages and Packages
+<!-- Programming Languages and Packages -->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
+![](https://img.shields.io/badge/Code-PyCBC-informational?style=flat&logo=PyCBC&color=FF5733)
+![](https://img.shields.io/badge/Code-SciPy-informational?style=flat&logo=SciPy&color=8CAAE6)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&color=150458)
+![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=NumPy&color=013243)
+![](https://img.shields.io/badge/Code-GeoPandas-informational?style=flat&logo=GeoPandas&color=44A833)
+![](https://img.shields.io/badge/Code-scikit--learn-informational?style=flat&logo=scikit-learn&color=F7931E)
+![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&color=EE4C2C)
+![](https://img.shields.io/badge/Code-NLTK-informational?style=flat&logo=NLTK&color=3333FF)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+## Data Visualization
+<!-- Data Visualization -->
+![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=Power-BI&color=F2C811)
+![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=Matplotlib&color=11557C)
+![](https://img.shields.io/badge/Tools-Seaborn-informational?style=flat&logo=Seaborn&color=5A9)
 
-</br>
+## Technologies
+<!-- Technologies -->
+![](https://img.shields.io/badge/Tech-Databricks-informational?style=flat&logo=Databricks&color=FF3621)
+![](https://img.shields.io/badge/Tech-Azure-informational?style=flat&logo=Microsoft-Azure&color=0078D4)
+![](https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=Docker&color=2496ED)
+![](https://img.shields.io/badge/Tech-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
+![](https://img.shields.io/badge/Tech-SQL-informational?style=flat&logo=SQL&color=CC2927)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+## Machine Learning
+<!-- Machine Learning -->
+![](https://img.shields.io/badge/ML-Deep_Learning-informational?style=flat&logo=Deep-Learning&color=0A0A0A)
+![](https://img.shields.io/badge/ML-Supervised_Learning-informational?style=flat&logo=Supervised-Learning&color=2E8B57)
 
+## Software Engineering
+<!-- Software Engineering -->
+![](https://img.shields.io/badge/Software_Model--Driven_Engineering-informational?style=flat&logo=Model-Driven-Engineering&color=00BFFF)
+![](https://img.shields.io/badge/Software_Object_Oriented_Programming-informational?style=flat&logo=Object-Oriented-Programming&color=4B0082)
+![](https://img.shields.io/badge/Software_Unit_Testing-informational?style=flat&logo=Unit-Testing&color=FFA500)
+![](https://img.shields.io/badge/Software_Scrum-informational?style=flat&logo=Scrum&color=6DB33F)
 
-</br>
+## Version Control Systems
+<!-- Version Control Systems -->
+![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=Git&color=F05032)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+## Unix based OS flavour
+<!-- Unix based OS flavour -->
+![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=CentOS&color=262577)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=E95420)
