@@ -15,7 +15,7 @@ I am passionate about the entire process of developing innovative data-driven so
 
 ## 🔭 I'm currently working as
 
-- Data Science Reasearch Assistant and Master Student at the University of Sussex.
+- Data Science Reasearch Assistant at the University of Sussex.
 
 ## 🌱 I'm currently learning
 
