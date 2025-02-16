@@ -15,7 +15,7 @@ I am passionate about the entire process of developing innovative data-driven so
 
 ## 🔭 I'm currently working as
 
-I'm actively seeking opportunities in Data Science, Research Software Engineering, and Data Analysis, where I can apply my expertise to solve real-world problems through innovative computational solutions.
+I'm actively seeking opportunities in **📊 Data Science, 🖥️ Research Software Engineering, and 📈 Data Analysis**, where I can apply my expertise to **solve real-world problems** through **innovative computational solutions**. 🚀
 
 ## 🌱 I'm currently learning
 
