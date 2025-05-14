@@ -2,42 +2,42 @@
 
 ## 📌 About Me
 
-I am a **Data Analyst** with a Master’s degree in Data Science (with distinction) from the University of Sussex and a strong academic background in Physics and Astrophysics. I specialize in **extracting, collecting, analyzing, and modeling data** to generate clear, actionable insights that support data-driven decision-making.
+I am a Data Analyst/Scientist with a Master’s degree in Data Science (with distinction) from the University of Sussex and a strong background in computational modelling. I specialise in extracting, collecting, analysing, and modelling data to generate clear, actionable insights that support data-driven decision-making.
 
-My technical toolkit includes **Python**, **SQL/MySQL**, **Power BI**, **Excel**, and **Tableau**. I build complete analytical solutions—from **data extraction and transformation (using Power Query)**, to **data modeling**, **DAX measures**, **statistical analysis**, and **machine learning**—delivered through **interactive dashboards** and well-structured reports.
+My technical toolkit includes Power BI, Tableau, Python, SQL/MySQL and Excel. I build complete analytical solutions—from data extraction and transformation (using Power Query), to data modelling, DAX measures, statistical analysis, and machine learning—delivered through interactive dashboards and well-structured reports.
 
 ---
 
 ## 💡 Core Competencies
 
-- **Data Extraction & Collection**  
+- 🔍**Data Extraction & Collection**  
   SQL querying, API integration, web scraping, Power Query, ETL workflows
 
-- **Data Cleaning & Preparation**  
+- 🧹**Data Cleaning & Preparation**  
   Handling missing values, outliers, feature engineering, normalization
 
-- **Data Modeling & Database Design**  
+- 📐**Data Modeling & Database Design**  
   Star/snowflake schemas, relational models, Power BI data modeling
 
-- **Statistical Analysis & Machine Learning**  
+- 📈**Statistical Analysis & Machine Learning**  
   Regression, classification, clustering, PCA, time series forecasting, Bayesian methods
 
-- **Visualization & Dashboarding**  
+- 📊**Visualization & Dashboarding**  
   Power BI (with DAX), Tableau, Excel dashboards, Python (Matplotlib, Seaborn)
 
-- **Programming & Automation**  
+- ⚙️**Programming & Automation**  
   Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), scripting, unit testing
 
-- **Business Intelligence & KPIs**  
+- 📎**Business Intelligence & KPIs**  
   Interactive dashboards, performance tracking, DAX-based calculations
 
-- **Database Technologies**  
+- 🗄️**Database Technologies**  
   SQL, MySQL, Neo4J — data querying, integration, and optimization
 
-- **Cloud & DevOps Tools**  
+- ☁️**Cloud & DevOps Tools**  
   Git/GitHub, Azure, Docker, Databricks
 
-- **Collaboration & Agile Practices**  
+- 🤝**Collaboration & Agile Practices**  
   Cross-functional teamwork, sprint cycles, reproducible coding workflows
 
 
