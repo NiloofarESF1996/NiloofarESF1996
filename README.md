@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/niloufar-esfahanian-226420226
 </h3>
 
 <h2 align="center">
-I'm a Data Scientist 💻, Astrophysicist 📊, and Piano Player 🎶!
+I'm a Data Analyst 💻, Astrophysicist 📊, and Piano Player 🎶!
 </h2> 
 
 I am passionate about the entire process of developing innovative data-driven solutions. I thrive on the challenge of uncovering hidden patterns in data and enjoy collaborating with diverse teams. Understanding how data can reveal insights and predicting where to find valuable information are aspects of data science that I find particularly engaging.
